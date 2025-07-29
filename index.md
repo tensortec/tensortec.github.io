@@ -5,6 +5,4 @@
 layout: home
 ---
 
-# O futuro é agora.
-
 ## Estamos transformando em realidade uma nova era digital.
