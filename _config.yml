@@ -20,8 +20,8 @@
 
 title: Tensor Tecnologia
 email: dm@tensor.tec.br
-description: >- # this means to ignore newlines until "baseurl:"
-  O futuro é agora.
+# description: >- # this means to ignore newlines until "baseurl:"
+#   O futuro é agora.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tensor.tec.br" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: tensortec
