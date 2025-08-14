@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: 
 ---
 
 # O futuro é agora.
 
-## Estamos transformando em realidade uma nova era digital.
+## Estamos ajudando a transformar em realidade uma nova era digital, inteligente e ágil.

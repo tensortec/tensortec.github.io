@@ -6,6 +6,10 @@ permalink: /portfolio/
 
 - Consulting
 - Training
+- Systems Design
 - Product Development
 - Custom Software
-- Intelectual Property
+- Hardware IP
+- Reverse Engineering
+- Process Modeling
+- Datasets

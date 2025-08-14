@@ -3,7 +3,7 @@
  */
 .site-header {
   border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: 1px solid $grey-color-dark;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -12,6 +12,7 @@
 
 .site-title {
   @include relative-font-size(1.625);
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Source Code Pro", monospace;
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
@@ -21,6 +22,10 @@
   &,
   &:visited {
     color: $grey-color-dark;
+  }
+
+  &:hover {
+    text-decoration: none;
   }
 }
 
@@ -106,7 +111,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $grey-color-dark;
   padding: $spacing-unit 0;
 }
 
